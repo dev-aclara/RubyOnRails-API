@@ -17,7 +17,7 @@ Nessa aplicação foi feito um estudo sobre ciação de uma API com Ruby On Rail
 
 ## Migration no Ruby On Rails
 
-As migrations são uma maneira existente para alterar a database scheema s ao longo do tempo de maneira consistente e que não quebre erroneamente o banco de dados com a modificação.
+As migrations são uma maneira existente para alterar o database scheema ao longo do tempo de maneira consistente e que não quebre erroneamente o banco de dados com a modificação.
 
 <img width="733" alt="20220805180910_create_songs" src="https://user-images.githubusercontent.com/57874018/183231323-2ee2ae30-3924-4fe5-9de0-aba8aca9ea73.png">
 
