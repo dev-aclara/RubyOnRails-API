@@ -19,7 +19,7 @@ Nessa aplicação foi feito um estudo sobre ciação de uma API com Ruby On Rail
 
 As migrations são uma maneira existente para alterar o database scheema ao longo do tempo de maneira consistente e que não quebre erroneamente o banco de dados com a modificação.
 
-<img width="733" alt="20220805180910_create_songs" src="https://user-images.githubusercontent.com/57874018/183231323-2ee2ae30-3924-4fe5-9de0-aba8aca9ea73.png">
+<img width="845" alt="20220805180910_create_songs rb" src="https://user-images.githubusercontent.com/57874018/183231831-e20dcebf-3177-4dd5-b411-93b622d67f9a.png">
 
 ## Developed by
 
